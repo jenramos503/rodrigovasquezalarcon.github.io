@@ -10,7 +10,7 @@
 
 ![fork1-castellon](https://github.com/user-attachments/assets/bdbe96d5-a9e0-4214-93e7-4f47e2829336)
 
-**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/jecastellon/jecastellon.github.io/pull/1/commits/61a6acdece12afb3b01f54288af62e1a843d740f)**
+**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/rodrigovasquezalarcon/jecastellon.github.io/commit/0230e34a0cf6e43eafe802d8cf1e56d49f7d5f20)**
 - Se actualizan los íconos de las secciones "Trabajo" y "Educación".
 
 ### **📈 Previsualización de Pull Request:**
@@ -23,7 +23,7 @@
 
 ![fork2-martinez](https://github.com/user-attachments/assets/0d6943f5-cb6b-4a5e-8359-f495b48c13da)
 
-**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/HectorAlejandro1796/HectorAlejandro1796.github.io/compare/main...rodrigovasquezalarcon:HectorAlejandro1796.github.io:main)**
+**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/rodrigovasquezalarcon/HectorAlejandro1796.github.io/commit/588c58cc571335ea166c5620f1bab167a74e1a0c)**
 - Se cambia el color de texto de la NavBar.
 - Se aplica Prettier en archivo CSS.
 
