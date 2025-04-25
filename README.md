@@ -1,19 +1,32 @@
 # Prueba módulo 1 - Trabajo colaborativo y Github Pages
 
-## Página desplegada: [rodrigovasquezalarcon](https://rodrigovasquezalarcon.github.io/)
+## Página propia desplegada: [rodrigovasquezalarcon](https://rodrigovasquezalarcon.github.io/)
 
-## Forks, Commits y Pull Request a repositorios:
+## Forks, commits y pull request a otros repositorios:
 
 ### Repositorio 1: [jecastellon](https://github.com/jecastellon/jecastellon.github.io)
 
-### **🍴 Fork:**
+### **🍴 Fork 1:** [Ver aquí](https://github.com/rodrigovasquezalarcon/jecastellon.github.io)
+
 ![fork1-castellon](https://github.com/user-attachments/assets/bdbe96d5-a9e0-4214-93e7-4f47e2829336)
 
-**🔧 Cambios propuestos:**
-- Se actualizan los íconos en las secciones "Trabajo" y "Educación".
+**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/jecastellon/jecastellon.github.io/pull/1/commits/61a6acdece12afb3b01f54288af62e1a843d740f)**
+- Se actualizan los íconos de las secciones "Trabajo" y "Educación".
 
 ### **📈 Previsualización de Pull Request:**
 
 ![commit1-castellon](https://github.com/user-attachments/assets/367c87e9-4265-4c55-9461-05bfbf46505c)
 
-**💬 [Ver Commit aquí](https://github.com/jecastellon/jecastellon.github.io/pull/1/commits/61a6acdece12afb3b01f54288af62e1a843d740f)**
+### Repositorio 2: [HectorAlejandro1796](https://github.com/HectorAlejandro1796/HectorAlejandro1796.github.io)
+
+### **🍴 Fork 2:** [Ver aquí](https://github.com/rodrigovasquezalarcon/HectorAlejandro1796.github.io)
+
+![fork2-martinez](https://github.com/user-attachments/assets/0d6943f5-cb6b-4a5e-8359-f495b48c13da)
+
+**🔧 Cambios propuestos:** **[Ver commit aquí](https://github.com/HectorAlejandro1796/HectorAlejandro1796.github.io/compare/main...rodrigovasquezalarcon:HectorAlejandro1796.github.io:main)**
+- Se cambia el color de texto de la NavBar.
+- Se aplica Prettier en archivo CSS.
+
+### **📈 Previsualización de Pull Request:**
+
+![commit2-martinez](https://github.com/user-attachments/assets/eafb0383-851e-4f97-862a-951f9a2d4432)
